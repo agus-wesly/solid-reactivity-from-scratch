@@ -1,3 +1,3 @@
-## Vue Reactivity From Scratch
+## Solid Reactivity From Scratch
 
-This is my implementation of Vue reactivity system (Kinda like). It's using Javascript `getter` and `setters` under the hood. Inspired by their official documentation here : https://vuejs.org/guide/extras/reactivity-in-depth.html
+This is my own implementation of Solid reactivity system (Kinda like). Inspired by this article : https://aashan.dev/blogs/fine-grained-reactivity.
